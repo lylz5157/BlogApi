@@ -1,0 +1,12 @@
+asgiref==3.2.3
+Django==3.0.3
+django-filter==2.2.0
+djangorestframework==3.11.0
+Markdown==3.2.1
+mysqlclient==1.4.6
+pip==20.0.2
+pytz==2019.3
+setuptools==45.2.0
+sqlparse==0.3.0
+uuid==1.30
+wheel==0.34.2
